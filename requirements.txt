@@ -1,0 +1,2 @@
+gspread>=6.0,<7.0
+python-telegram-bot>=21.0,<22.0
